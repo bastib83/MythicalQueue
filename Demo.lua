@@ -9,7 +9,7 @@ local function CreateDemoWindow()
 
     -- ── Hauptrahmen ──────────────────────────────────────────
     local frame = CreateFrame("Frame", "MythicalQueueDemo", UIParent, "BackdropTemplate")
-    frame:SetSize(360, 460)
+    frame:SetSize(360, 640)
     frame:SetPoint("CENTER")
     frame:SetMovable(true)
     frame:EnableMouse(true)
