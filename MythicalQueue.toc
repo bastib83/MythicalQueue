@@ -1,0 +1,8 @@
+## Interface: 120001
+## Title: Mythical Queue
+## Notes: WoW Addon - Mythical Queue
+## Author: bastib83
+## Version: 0.1.0
+## SavedVariables: MythicalQueueDB
+
+Core.lua
