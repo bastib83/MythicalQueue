@@ -1,0 +1,33 @@
+## Interface: 110105
+## Title: GuildKey
+## Notes: Gildeninternes Mythic+ Koordinationssystem
+## Author: GuildKey Contributors
+## Version: 0.1.0
+## SavedVariables: GuildKeyDB
+## SavedVariablesPerCharacter: GuildKeyCharDB
+
+Libs\AceAddon-3.0\AceAddon-3.0.lua
+
+Locales\deDE.lua
+
+Core\Constants.lua
+Core\Utils.lua
+Core\Data.lua
+Core\Comm.lua
+Core\Events.lua
+
+Modules\Discord.lua
+Modules\RunBoard.lua
+Modules\MemberStatus.lua
+Modules\MyKey.lua
+Modules\Stats.lua
+
+UI\Themes.lua
+UI\Widgets.lua
+UI\MainFrame.lua
+UI\RunBoardUI.lua
+UI\MemberStatusUI.lua
+UI\MyKeyUI.lua
+UI\StatsUI.lua
+
+GuildKey.lua

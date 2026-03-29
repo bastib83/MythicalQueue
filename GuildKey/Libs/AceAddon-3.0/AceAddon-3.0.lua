@@ -1,0 +1,3 @@
+-- AceAddon-3.0 Stub
+-- GuildKey verwendet direkte WoW Frame API statt Ace3.
+-- Diese Datei existiert nur damit die TOC-Ladereihenfolge ohne Fehler bleibt.
